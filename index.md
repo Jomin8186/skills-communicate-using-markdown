@@ -1,3 +1,1 @@
-# Hey this is header 1 !
-## This one is header 2 ...
-### Also this is header 3 ^
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
