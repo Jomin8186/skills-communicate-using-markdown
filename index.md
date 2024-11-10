@@ -1,3 +1,3 @@
-``` javascript
-var myVar = "Hello, world!";
-```
+- [x] Get up early morrning
+- [x] Study for 2 hours
+- [ ] Code and learn new things  
